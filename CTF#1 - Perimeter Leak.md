@@ -1,14 +1,3 @@
-<style>
-body, .markdown-body {
-  direction: rtl;
-  text-align: right;
-}
-code, pre {
-  direction: ltr;
-  text-align: left;
-}
-</style>
-
 # WIZ CTF #1 - Perimeter Leak - Technical Writeup
 
 האתגר הזה היה האתגר הראשון שלקחתי ברצינות והתמדתי בו, והצלחתי לפתור במלואו בכוחות עצמי!
