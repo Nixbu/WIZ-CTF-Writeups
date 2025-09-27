@@ -1,10 +1,3 @@
----
-layout: default
-title: "CTF#1 - Perimeter Leak - Technical Writeup"
----
-
-<div dir="rtl" style="text-align: right; direction: rtl;">
-
 # WIZ CTF #1 - Perimeter Leak - Technical Writeup
 
 האתגר הזה היה האתגר הראשון שלקחתי ברצינות והתמדתי בו, והצלחתי לפתור במלואו בכוחות עצמי!
@@ -135,4 +128,4 @@ curl -u "ctf:88sPVWyC2P3p" "https://challenge01.cloud-champions.com/proxy?url=$E
 
 מצאתם טעות או שיש לכם פתרון משלכם? אשמח לשמוע! מוזמנים להתחבר בלינקדאין שלי:
 https://www.linkedin.com/in/nir-busheri/
-<div/>
+
