@@ -6,3 +6,6 @@ highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+# Remove duplicate title
+show_excerpts: false
