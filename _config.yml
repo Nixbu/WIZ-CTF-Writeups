@@ -1,11 +1,11 @@
-title: WIZ CTF Writeups
-description: My writeups on WIZ Cloud Champions CTF challenges - 2025
+title: "WIZ CTF Writeups"
+description: "My writeups on WIZ Cloud Champions CTF challenges - 2025"
 theme: minima
 markdown: kramdown
 highlighter: rouge
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
 
-# Remove duplicate title
+# Prevent duplicate content
 show_excerpts: false
+header_pages: []
