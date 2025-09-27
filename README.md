@@ -1,2 +1,6 @@
-## My writeups:
-- [CTF#1 - Perimeter Leak](CTF%231%20-%20Perimeter%20Leak.md)
+# WIZ CTF Writeups
+
+My writeups on WIZ Cloud Champions CTF challenges - 2025
+
+## Writeups:
+- [CTF#1 - Perimeter Leak](ctf1-perimeter-leak.md)
